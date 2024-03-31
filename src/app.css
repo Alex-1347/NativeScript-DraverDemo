@@ -1,0 +1,15 @@
+@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+Button.-primary {
+  font-size: 18;
+}
+
+ActionBar, Button {
+  background-color: #be04ed;
+  color: white;
+}
+
+ActionBar Label {
+  color: white;
+}
